@@ -6,7 +6,7 @@ Este projeto foi desenvolvido com o intuito de buscar notícias no banco de dado
 
 Este é um projeto da documentação oficial do <b>CodeIgniter 4</b>.
 
-## Introdução ao NestJS
+## Introdução ao CodeIgniter
 Este projeto foi inicializado com o [Composer](https://codeigniter4.github.io/userguide/installation/installing_composer.html) .
 
 ## Tecnologias e bibliotecas usadas no desenvolvimento
